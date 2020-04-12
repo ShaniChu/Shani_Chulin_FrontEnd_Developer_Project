@@ -1,0 +1,38 @@
+.banner{
+	background: url("assets/gustavo-alves-YOXSC4zRcxw-unsplash1.jpg");
+	background-size:cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 65vh;
+}
+
+a{
+	text-transform: capitalize;
+}
+
+.main-title{
+	color:white;
+	text-transform: capitalize;
+	font-size: 80px;
+}
+
+li.nav-item.filter{
+	border-bottom: solid 1px #ebebeb; 
+	text-transform: capitalize;
+
+}
+
+.filter-title{
+	border-bottom: solid 1px #ebebeb; 
+	color:#008CC5;
+	text-transform: capitalize;
+}
+
+a.nav-link.filter{
+	color:black;
+}
+
+a:hover{
+	border: 1px solid #008CC5;
+
+}
